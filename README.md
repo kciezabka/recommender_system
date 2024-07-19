@@ -1,5 +1,7 @@
 # System rekomendacyjny
 
+Projekt na kurs Metody klasyfikacji i redukcji wymiaru.
+
 Celem projektu jest rozwój systemu rekomendacyjnego zdolnego do przewidywania ocen filmów użytkowników na podstawie danych o poprzednio ocenianych przez nich filmach, a także porównanie różnych metod faktoryzacji macierzy oraz optymalizacji, takich jak:
 - NMF (Non-negative Matrix Factorization),
 - SVD1, SVD2 (Singular Value Decomposition),
